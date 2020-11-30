@@ -1,4 +1,4 @@
-DSA5102 Project: House Prices Advance Regression Techniques
+# DSA5102 Project: House Prices Advance Regression Techniques
 
 Given 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. <br>
 That can be found in: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
